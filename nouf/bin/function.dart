@@ -58,6 +58,7 @@ void displayByEmail(String email) {
 }
 ///فنكشن بونس
 void displayChild(String name) {
+  info.clear();
   for (var element in data) {
     User u1 = User.fromJson(element);
     info.add(u1);
