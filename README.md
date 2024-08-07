@@ -1,4 +1,10 @@
-repository data is 
+
+
+![Assignment_8](https://github.com/user-attachments/assets/a37859d1-dc1c-4dbf-9791-17d0582d81a6)
+
+
+
+ * repository data is used for Solution
 
 ```dart 
 [
@@ -104,26 +110,36 @@ repository data is
 ]
 ```
 
-## Assignment:
 
-In this assignment, you will create functions to display all users, display one user by first_name, display one user by email.
 
-## Requirements:
-1. Create a Dart project
-2. Create a “model” file to represent users object with the required properties.
-3. Implement a function to display all users. This function should return a JSON data containing all users object.
-4. Implement a function to display one user by first_name. This function should accept a first_name in parameter and return a JSON data containing the user object with the matching first_name.
-5. Implement a function to display one user by email. This function should accept an email in parameter and return a JSON data containing the user object with the matching email.
+In this assignmen creating functions:
+#### - display all users.
+#### - display one user by first_name.
+#### - display one user by email.
 
-## Evaluation Criteria:
-The assignmen will be evaluated based on the following criteria:
-1. Completion: The extent to which the assignment meets all the minimum requirements, including the extra credit ideas if implemented.
-2. Quality: The overall quality of the project, including the organization, and ease of maintenance. Well-structured and readable code will be favorably evaluated.
+
+## Output :
+##### * display all users
+
+<img width="1371" alt="Screenshot 2024-08-07 at 5 06 11 AM" src="https://github.com/user-attachments/assets/a6758e9e-ccb9-4060-95a7-460da777f15c">
+
+
+##### * display one user by first_name
+
+
+<img width="1371" alt="Screenshot 2024-08-07 at 5 07 08 AM" src="https://github.com/user-attachments/assets/043e723d-9da2-4937-bafd-c26ccc546a56">
+
+
+##### *  display one user by email
+
+<img width="1371" alt="Screenshot 2024-08-07 at 5 10 11 AM" src="https://github.com/user-attachments/assets/9fde722e-623d-4be7-b56a-7502eeaeb082">
+
 
 ## Bonus
-Implement a function to display the children of one user. This function should accept a first_name in parameter and return a JSON data containing the children object with the matching first_name.
+Implement a function to display the children of one user. 
+<img width="1371" alt="Screenshot 2024-08-07 at 5 11 15 AM" src="https://github.com/user-attachments/assets/2f88ac13-f9d9-418f-855b-6f36e1544ad3">
 
-## Submission Details:
-Deadline: 7th August 2024
-Submission Format: Provide your Dart code file(s) along with a README file explaining your implementation.
-Good luck, and happy coding!
+
+thanks🌺
+
+
