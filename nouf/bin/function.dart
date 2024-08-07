@@ -14,6 +14,7 @@ List<User> info = [];
 
 // هذي فنكشن تعرض جميع اليوزرز وبياناتهم
 void printInfo() {
+   info.clear();
   for (var element in data) {
     User u1 = User.fromJson(element);
     info.add(u1);
@@ -28,6 +29,7 @@ void printInfo() {
 
 ///فنكشن عن طريق الاسم الاول
 void displayFristName(String name) {
+   info.clear();
   for (var element in data) {
     User u1 = User.fromJson(element);
     info.add(u1);
@@ -43,6 +45,7 @@ void displayFristName(String name) {
 }
 ///فنكشن عن طريق الايميل
 void displayByEmail(String email) {
+   info.clear();
   for (var element in data) {
     User u1 = User.fromJson(element);
     info.add(u1);
