@@ -49,7 +49,7 @@ void displayByEmail(String email) {
   }
   for (var element in info) {
     if (element.email == email) {
-      print((element.toJson()));
+      print(greenPen((element.toJson())));
       print(blackPen("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"));
 
 
